@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository to research or implement AI-native construction accounting systems, please cite it as follows."
+authors:
+  - family-names: "Dutta"
+    given-names: "Ishan"
+title: "Awesome-Construction-Accounting: A Curated List of AI-Native Construction Accounting Agents & Financial Platforms"
+version: 1.0.0
+date-released: 2026-05-25
+url: "https://github.com/ishandutta2007/Awesome-Construction-Accounting"
+keywords:
+  - "construction accounting"
+  - "AI agents"
+  - "job costing"
+  - "fintech"
+  - "autonomous accounting"
+  - "Lien Waiver AI"
+  - "AIA Billing"
+  - "Sage Intacct AI"
+  - "Procore AI"
+  - "Construction ERP AI"
