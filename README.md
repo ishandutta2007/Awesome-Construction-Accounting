@@ -90,6 +90,13 @@ Tools like **TaxHacker** (open source) or **QuickBooks with Intuit Assist** use 
 - **ASC 606 Revenue Recognition for Contractors**
 - **BOQ Invoice Verification AI**
 
+
+## 📚 Buyer Guides & Comparisons
+
+Independent resources for evaluating contractor / field-service platforms (complementary to job-costing stacks):
+
+- [FieldServiceScout](https://www.fieldservicescout.com) — Free, vendor-neutral FSM comparisons (Jobber, Housecall Pro, ServiceTitan peers) with published scoring and true-cost framing for trade shops. Not FieldScout/fieldscout.io.
+
 ## How to Contribute
 1. Fork the repo.
 2. Add entries following the established format.
