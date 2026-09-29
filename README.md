@@ -58,6 +58,8 @@ Traditional systems fail at the **"Detective Work"** required to reconcile field
   *Keyword:* **Open Source Construction ERP.** Features professional BOQ, 4D/5D planning, and financial tracking.
 - **[accountant24](https://github.com/machulav/accountant24)**  
   *Keyword:* **Local-First AI Accounting.** Use Ollama/local LLMs for private construction financial data.
+- **[OpenBooks](https://github.com/braedonsaunders/openbooks)**  
+  *Keyword:* **Open-Source Mid-Market ERP.** Job costing, multi-entity/intercompany, approvals and audit trail, invoices/bills/inventory.
 
 ---
 
