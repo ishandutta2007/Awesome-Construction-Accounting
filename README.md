@@ -1,6 +1,6 @@
 # 🏗️ AI-Native Construction Accounting: Agents for Job Costing, WIP & AIA Billing 🚀
 
-[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Construction-Accounting.svg?style=social&label=Star)](https://github.com/ishandutta2007/Awesome-Construction-Accounting) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Contributing](https://img.shields.io/badge/Contributing-Welcome-blue.svg)](CONTRIBUTING.md) [![Security](https://img.shields.io/badge/Security-Policy-brightgreen.svg)](SECURITY.md) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Construction-Accounting.svg?style=social&label=Star)](https://github.com/ishandutta2007/Awesome-Construction-Accounting) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Contributing](https://img.shields.io/badge/Contributing-Welcome-blue.svg)](CONTRIBUTING.md) [![Security](https://img.shields.io/badge/Security-Policy-brightgreen.svg)](SECURITY.md) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ![Awesome Construction Accounting Banner](assets/banner.svg)
 
@@ -41,7 +41,7 @@ This curated list showcases cutting-edge **AI Agents**, **LLM frameworks**, **Op
 
 ## 📂 Open-Source Projects: Build Your Own Construction Agent 🔓
 
-Repositories sorted by community GitHub Star count:
+Repositories sorted by community GitHub Stars_Count:
 
 - **[datadrivenconstruction/OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP)** [![Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionERP?style=social&color=white)](https://github.com/datadrivenconstruction/OpenConstructionERP/stargazers)  
   *Keywords:* **Open Source Construction ERP, BOQ & Financial Tracking**  
@@ -123,3 +123,12 @@ AI agents and software systems are efficiency tools and must be supervised by ce
 
 ## 📈 Star History
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Construction-Accounting&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Construction-Accounting&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Construction-Accounting&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Construction-Accounting_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Construction-Accounting_growth.svg">
+  </picture>
+</a>
