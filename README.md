@@ -106,3 +106,12 @@ AI agents are tools for efficiency and should be overseen by qualified CPAs and 
   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Construction-Accounting&type=date&legend=bottom-right" />
 </a>
 
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Construction-Accounting&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Construction-Accounting_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Construction-Accounting_growth.svg">
+  </picture>
+</a>
